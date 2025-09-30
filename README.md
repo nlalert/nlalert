@@ -33,7 +33,7 @@ I'm a senior computer science student. Currently learning game design, 3D modell
 ## Current Focus
 
 - 🎮 Learning game design concepts and principles
-- 🎨 Practicing 3D modelling and pixer art drawing
+- 🎨 Practicing 3D modelling and pixel art drawing
 - 🎵 Exploring music composition for games
 
 ## Github Stats

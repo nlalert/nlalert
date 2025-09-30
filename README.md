@@ -44,3 +44,4 @@ I'm a senior computer science student. Currently learning game design, 3D modell
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlalert&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nlalert&label=Profile%20views&color=0e75b6&style=flat" alt="nlalert" /> </p>

@@ -36,7 +36,7 @@ I'm a senior computer science student. Currently learning game design, 3D modell
 - 🎨 Practicing 3D modelling and pixel art drawing
 - 🎵 Exploring music composition for games
 
-## Github Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nlalert&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
